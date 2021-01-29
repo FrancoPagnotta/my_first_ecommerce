@@ -1,0 +1,17 @@
+.COMPRAR {
+    background-color: #FFFF;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    font-family: 'Noto Sans JP', sans-serif; 
+    font-size: small;
+    border: none;
+    text-transform: uppercase;
+}
+
+.COMPRAR:hover {
+    background-color: rgba(121, 214, 121, 0.76);
+    color: white;
+    transition: 0.4s;
+}
